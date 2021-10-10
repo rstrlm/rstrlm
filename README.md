@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rstrlm, currently studying Diploma of ICT @ Helsinki Business College 
+- 👋 Hi, I’m @rstrlm, Graduated from Helsinki Business College with Diploma of ICT 
 - 👀 I’m interested in web and software development
-- 🌱 I’m currently learning javascript, node.js, html, css, add bunch of other stuff
+- 🌱 I’m currently learning fullstack with MERN stack 
 - 💞️ I’m looking for internship, work, projects
 - 📫 How to reach me risto.reilama@gmail.com or on twitter @Rst_Rlm
 
