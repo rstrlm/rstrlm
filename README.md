@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rstrlm, Graduated from Helsinki Business College with Diploma of ICT 
-- 👀 I’m interested in web and software development
-- 🌱 I’m currently learning fullstack with MERN stack 
-- 💞️ I’m looking for internship, work, projects
+- 👀 I’m interested in data engineering and software development
+- 🌱 My current TECH stack is .NET, React, TSQL, Angular,  
+- 💞️ I’m open for work and projects
 - 📫 How to reach me risto.reilama@gmail.com or on twitter @Rst_Rlm
 
 <!---
